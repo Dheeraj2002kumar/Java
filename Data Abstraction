@@ -1,0 +1,15 @@
+Q. Data abstraction in java.
+Ans: Data abstraction in Java is a fundamental concept that involves hiding the 
+implementation details of a class and showing only the essential features of the 
+object. Here's a concise explanation of data abstraction in Java:
+• Definition: Data abstraction is the process of hiding the implementation details 
+and showing only the essential features of an object to the outside world. It 
+allows for the creation of complex systems by breaking them down into smaller, 
+manageable components.
+• 2. Abstract Classes and Interfaces: In Java, data abstraction is primarily 
+achieved through the use of abstract classes and interfaces. An abstract class is 
+a class that cannot be instantiated and may contain abstract methods, which are 
+declared but not implemented. Abstract methods define the interface for 
+subclasses to implement. Interfaces, on the other hand, provide a way to specify 
+methods that a class must implement, but they cannot contain method 
+implementations
